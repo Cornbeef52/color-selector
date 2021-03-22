@@ -1,2 +1,2 @@
-# color-selector
+# new-color
 Created with CodeSandbox
